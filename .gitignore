@@ -49,3 +49,7 @@ Thumbs.db
 *.wmv
 
 myfirstapp-feb-f1/
+.classpath
+.project
+.settings/
+src/.settings/
